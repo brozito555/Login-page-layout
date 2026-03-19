@@ -1,0 +1,33 @@
+.alinhamento{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:90vh;
+}
+.bloco{
+    width:375px;
+    height: 350px;
+    background-color:grey;
+    border-radius:10px;
+    box-shadow:6px 6px 6px #555;
+}
+html{
+    text-align:center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:azure;
+    font-size:larger;
+    background-color:azure;
+}
+input{
+    border:antiquewhite;
+    border-radius:5px;
+}
+button{
+    border-radius:5px;
+    border:antiquewhite;
+    width:60px;
+    height:25px;
+}
+a{
+    color:aqua;
+}
